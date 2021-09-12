@@ -1,0 +1,11 @@
+Package: gglm
+Type: Package
+Title: Linear regression of two continuous variables with addition of R2 and p-value
+Version: 0.0.1
+Author: Zhonghui Gai
+Maintainer: ZhonghuiGai <zhgai@aliyun.com>
+Description: Linear regression of two continuous variables with addition of R2 and p-value
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
